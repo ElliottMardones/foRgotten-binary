@@ -8,6 +8,6 @@
  
  Example
  
- path <- "C:/Users/Administrador/foRgotten_1.1.0.zip" 
+ path <- "C:/Downloads/foRgotten_1.1.0.zip" 
  
  install.packages(path, reps = NULL)
